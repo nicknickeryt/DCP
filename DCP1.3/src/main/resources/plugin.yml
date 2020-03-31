@@ -1,0 +1,9 @@
+name: DragonCraftPomoc
+version: 1.3
+main: pl.dcrft.test.main
+author: Nick Nicker
+website: http://DCRFT.PL/
+commands:
+  pomoc:
+    description: "Plugin pomocy stworzony przez Nicka"
+prefix: DragonCraftPomoc »
