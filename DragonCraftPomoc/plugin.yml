@@ -1,0 +1,13 @@
+main: pl.dcrft.Main
+name: DragonCraftPomoc
+version: 2.0
+author: NickNickerYT
+description: Plugin pomocy dla DragonCraft
+commands:
+  pomoc:
+    description: Wyświetl pomoc.
+    usage: /pomoc
+  rlpomoc:
+    description: Przeładuj pomoc
+    permission: panel.adm
+    usage: /rlpomoc
